@@ -1,0 +1,3 @@
+﻿  ConsoleApplication28.cpp
+C:\Users\bahsa\Downloads\Telegram Desktop\ConsoleApplication28.cpp(199,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  DKR.vcxproj -> D:\OOP\DKR\x64\Debug\DKR.exe
